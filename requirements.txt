@@ -1,6 +1,5 @@
-pyttsx3
-SpeechRecognition
-streamlit
-...
-; Platform-specific dependency for macOS
-pyobjc>=8.0; sys_platform == "darwin"
+streamlit==1.25.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0
+matplotlib>=3.4.0
